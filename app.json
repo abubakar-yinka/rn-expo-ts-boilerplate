@@ -1,8 +1,8 @@
 {
   "expo": {
-    "owner": "storytics",
-    "name": "fastics-native",
-    "slug": "fastics-native",
+    "owner": "abubakar_y_i",
+    "name": "boilerplate-native",
+    "slug": "boilerplate-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

@@ -12,6 +12,6 @@ exports[`Title component UI Should render properly 1`] = `
     ]
   }
 >
-  Fastics Native Title
+  boilerplate Native Title
 </Text>
 `;

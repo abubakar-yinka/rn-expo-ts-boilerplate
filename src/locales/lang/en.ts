@@ -1,5 +1,5 @@
 export default {
-  title: "Fastics Native",
+  title: "boilerplate Native",
   description: "Welcome",
   welcome: "Welcome to this new page of opportunities",
   goBack: "Go Back",

@@ -12,6 +12,6 @@ exports[`Container component UI Should render properly 1`] = `
     ]
   }
 >
-  Fastics Native Description
+  boilerplate Native Description
 </View>
 `;

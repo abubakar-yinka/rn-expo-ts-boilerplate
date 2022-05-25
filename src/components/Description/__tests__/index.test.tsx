@@ -8,7 +8,7 @@ describe("Description component UI", () => {
     const tree = renderer
       .create(
         <WithTheme>
-          <Description>Fastics Native Description</Description>
+          <Description>boilerplate Native Description</Description>
         </WithTheme>
       )
       .toJSON();
