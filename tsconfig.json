@@ -1,14 +1,15 @@
 {
   "compilerOptions": {
+    "noImplicitAny": false,
     "baseUrl": "src",
     "allowSyntheticDefaultImports": true,
     "jsx": "react-native",
-    "lib": ["dom", "esnext"],
+    "lib": ["dom", "dom.iterable", "esnext"],
     "moduleResolution": "node",
     "noEmit": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
-    "strict": true,
+    "strict": true, // We recommend enabling this to minimize the chance of introducing runtime errors.
     "paths": {
       "*": ["src/*"],
       "components/*": ["components/*"],
