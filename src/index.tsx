@@ -6,7 +6,9 @@ import theme from "theme/index";
 // Navigation
 import Navigation from "navigation/index";
 
-const App: React.FC = () => (
+interface Props {}
+
+const App: React.FC<Props> = () => (
   <ThemeProvider theme={theme}>
     <StatusBar
       backgroundColor={theme.colors.background}
